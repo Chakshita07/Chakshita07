@@ -8,7 +8,6 @@ I'm a 20-year-old computer science student from Canada. At the moment, I am stud
 
 👯 I'm looking forward to connecting with other developers and learning from their experiences.
 
-📫 How to reach me: chakshita0302@gmail.com
 
 😄 Pronouns: She/Her
 
