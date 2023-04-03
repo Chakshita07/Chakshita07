@@ -3,6 +3,7 @@ Welcome to GitHub account. I'm a 20-year-old computer science student from Canad
 
 
 🌱 I’m currently learning: C and Python
+
 👯 I'm looking forward to connecting with other developers and learning from their experiences.
 
 📫 How to reach me: chakshita0302@gmail.com
