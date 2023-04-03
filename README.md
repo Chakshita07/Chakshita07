@@ -1,4 +1,5 @@
 ### Hey!👋 I'm Chakshita Gupta
+📫 How to reach me: chakshita0302@gmail.com
 
 <!--
 **Chakshita07/Chakshita07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
