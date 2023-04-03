@@ -1,7 +1,12 @@
 ### Hey!👋 I'm Chakshita Gupta
+Welcome to GitHub account. I'm a 20-year-old computer science student from Canada. At the moment, I am studying computer science at Sheridan College, and during my time there, I am gaining expertise in various programming languages and tools such as C, Java, and HTML/CSS.
+
+
 🌱 I’m currently learning: C and Python
+👯 I'm looking forward to connecting with other developers and learning from their experiences.
 
 📫 How to reach me: chakshita0302@gmail.com
+
 😄 Pronouns: She/Her
 
 <!--
@@ -14,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: chakshita0302@gmail.com
+- 📫 How to rea
 -  ...
 - ⚡ Fun fact: ...
 -->
