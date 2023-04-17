@@ -1,5 +1,5 @@
 ### Hey!👋 I'm Chakshita Gupta
-Welcome to GitHub account. 
+Welcome to my GitHub account. 
 
 I'm a computer science student from Canada. At the moment, I am studying computer science at Sheridan College, and during my time there, I am gaining expertise in various programming languages and tools such as C, Java, and HTML/CSS.
 
