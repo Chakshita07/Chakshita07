@@ -4,7 +4,7 @@ Welcome to my GitHub account.
 I'm a computer science student from Canada. At the moment, I am studying computer science at Sheridan College, and during my time there, I am gaining expertise in various programming languages and tools such as C, Java, and HTML/CSS.
 
 
-🌱 I’m currently learning: DS in C and Python
+🌱 I’m currently learning: Python & DS in C!
 
 👯 I'm looking forward to connecting with other developers and learning from their experiences.
 
